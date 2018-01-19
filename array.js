@@ -1,7 +1,8 @@
+array = ["baby","one","more"]
 function addElementToBeginningOfArray(array, element) {
  // add the element to the beginning of the array without mutating the array
 
- array= ["element",...array]
+ array=["element",...array]
   
 }
 
